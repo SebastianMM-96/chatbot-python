@@ -34,3 +34,7 @@ config = RasaNLUConfig(
 trainer = Trainer(config)
 interpreter = trainer.train(training_data)
 ```
+
+### About Rasa NLU
+
+Rasa NLU (Natural Language Understanding) is a tool for understanding what is being said in short pieces of text.
